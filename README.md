@@ -1,7 +1,8 @@
  **Hi 👋, I'm Tushar Verma**
+ 
 **A passionate Full Stack Developer**
 
--Email me ✉️ **tusharverma.94512.com** For Collaboration/Project or Anything else. 😊😊
+-Email me ✉️ **tusharverma.94512.com** For Collaboration/Project or Anything else.
 
 **I’m currently working on:** FPO Project
 
